@@ -3,7 +3,7 @@ title: Peter's Mayden Acadamy Blog
 
 description: > # this means to ignore newlines until "baseurl:"
   A Blog following the progress of a Mayden Acadamy trainee software developer and the fascinating things that are discovered on this adventure into the unknown...
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/acblog" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings
