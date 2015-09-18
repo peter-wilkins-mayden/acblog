@@ -14,7 +14,7 @@ I'm 38 years old, I have two boys and I need to change career. The prospect of d
 With a family to support I can’t afford to be unsalaried and certainly can't afford to get a degree.
 Information Technology changes so fast that there are more opportunities for a career-changer than traditional professions and employers are more open minded about who they hire. 
 
-I had already started a series of online courses based on an Infoworld article which suggests you can replicate a First Class Computer Science degree using free resources on the web. Perhaps so, but I have definitely landed on my feet getting into Mayden Academy. I can't put a value on the knowledge and experience I've already gained after just one week (and there's plenty still to come). 
+I had already started a series of online courses based on [this Infoworld article](http://www.infoworld.com/article/2614635/application-development/-200k-for-a-computer-science-degree--or-these-free-online-classes-.html) which suggests you can replicate a First Class Computer Science degree using free resources on the web. Perhaps so, but I have definitely landed on my feet getting into Mayden Academy. I can't put a value on the knowledge and experience I've already gained after just one week (and there's plenty still to come). 
 
 It is also very rewarding studying in a group of intelligent and motivated people and the pace has been fast but not uncomfortable. Luke and Mike have done a great job keeping it fresh and interesting. I think it takes a very focused and determined person to go it alone. My advice is, at the very least, find a mentor to keep you from getting side tracked and wasting your time.
 
