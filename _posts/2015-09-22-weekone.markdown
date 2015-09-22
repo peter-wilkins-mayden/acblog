@@ -5,7 +5,7 @@ date:   2015-09-21
 categories: about
 author: Peter Wilkins
 image: aclogo.png
-permalink: Why-I-am-learning-to-develop-software
+permalink: Week one review
 ---
 
 At the end of week one I feel elated at the amount and quality of information and tools we have learned.
