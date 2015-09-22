@@ -1,10 +1,8 @@
 ---
 layout: post
 title:  "Why do I want to learn to develop software?"
-date:   2015-09-18 14:38:49
-categories: about
+date:   2015-09-18
 author: Peter Wilkins
-image: aclogo.png
 permalink: Why-I-am-learning-to-develop-software
 ---
 

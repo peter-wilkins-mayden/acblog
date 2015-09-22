@@ -2,10 +2,8 @@
 layout: post
 title:  "Week one review"
 date:   2015-09-21
-categories: about
 author: Peter Wilkins
-image: aclogo.png
-permalink: Week one review
+permalink: Week-one-review
 ---
 
 At the end of week one I feel elated at the amount and quality of information and tools we have learned.
@@ -38,4 +36,4 @@ So what was hot and what was not?
 
 ###Create a Blog using Jekyll and Github pages
 * HOT: Getting a blog setup in about 15 minutes and using git for something real.
-* NOT: Treehouses tutorial on jekyll - could do with an overview of the subject. Plus it was friday afternoon and I was probably suffering from [Smoke Stack](http://grillstock.co.uk/blogs/archives/tag/smokestack-burger/) Overflow.
+* NOT: Treehouses tutorial on jekyll - could do with an overview of the subject. Plus it was friday afternoon and I was probably suffering from a [Smoke Stack](http://grillstock.co.uk/blogs/archives/tag/smokestack-burger/) Overflow.
