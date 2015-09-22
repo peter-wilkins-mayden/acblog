@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Week one review"
+date:   2015-09-21
+categories: about
+author: Peter Wilkins
+image: aclogo.png
+permalink: Why-I-am-learning-to-develop-software
+---
+
+At the end of week one I feel elated at the amount and quality of information and tools we have learned.
+
+So what was hot and what was not?
+
+###Setting up the LAMP server environment
+* HOT: Vagrant and virtual box and a setup that 'just works'
+* NOT: installing three kinds of mysql on my mac and watching them fight over the mysqld.pid file.
+
+###Working with Intergrated developement environments
+- HOT: Playing [vim snake](http://www.vimsnake.com/) and [vim adventure](http://vim-adventures.com/)
+- NOT: Switching IDE every 5 minutes whenever I hit a roadblock. Just pick one and learn it Peter.
+
+###Development environment set up
++ HOT: Homebrew and npm, infact any package manager that works!
++ NOT: Oracles mysql installer, can't copy text from itunes podcast descriptions (#really!?)
+
+###Working with the Command Line
+* HOT: CodeAcademy's command line tutorial, customising my bash prompt with pretty colors and github current branch.
+* NOT: Nothing (gui's are stoopid)
+
+###Information Governance
+- HOT: Paula
+- NOT: Leaving your laptop on a train.
+
+###Covering the databases
++ HOT: muffled snickers everytime someone says 'INSERT INTO people'
++ NOT: deleting your whole database with DELETE *
+
+###Create a Blog using Jekyll and Github pages
+* HOT: Getting a blog setup in about 15 minutes and using git for something real.
+* NOT: Treehouses tutorial on jekyll - could do with an overview of the subject. Plus it was friday afternoon and I was probably suffering from [Smoke Stack](http://grillstock.co.uk/blogs/archives/tag/smokestack-burger/) Overflow.
