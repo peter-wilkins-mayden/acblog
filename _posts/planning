@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Techniques to improve your coding"
+author: Peter Wilkins
+date:   2015-10-05
+permalink: improve-coding
+---
+##Eat more tomatoes
+
+I think most people have heard of the pomodoro technique to increase efficiency by breaking coding sessions down to 20 minutes and switching tasks which helps keep things fresh but I'm looking for something more.
+
+
+##How long should it take?
+1.time planning
+2.time coding
+3.time fixing the code so it works
+
+Clearly there is a perfect but unknowable formula to the above and experience will help with knowing how long it is necessary to spend on the first to minimise time spent on the last. Idealy the time spent on part three should be zero.
+
+I'm slowly struggling through [How to design Programs](htdp.org), by MIT press. but if there is a tool like a linter for planning and refactoring the plan before you start coding

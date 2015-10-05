@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I have spent all my working years teaching sailing and other outdoor activities. It has taken me from my home waters of the Norfolk Broads, as far away as Hong Kong and Tanzania. My last position was with the Nancy Oldfield Trust, a charity that makes it possible for disabled people to get afloat on the Norfolk Broads.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I used to enjoy windsurfing, paragliding and motorbiking but now I spend my spare time as trampoline attendant and swing pusher as I am the proud father of two boys, Finley (6) and baby Euan (5 months). Finley likes computer games, Euan loves trees.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I’ve been tinkering with computers for years, with the possibility of a career change always at the back of my mind. I feel excited and honoured to be a member of Mayden Acadamy and looking forward to the challenges ahead.

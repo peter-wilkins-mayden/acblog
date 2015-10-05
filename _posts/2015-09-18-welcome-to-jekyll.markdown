@@ -8,6 +8,8 @@ permalink: Why-I-am-learning-to-develop-software
 
 I'm 38 years old, I have two boys and I need to change career. The prospect of doing what I was doing for another 30 years was making me depressed. I need a lot of mental simulation or I go nuts. I want to spend my time around smart hardworking people who enjoy what they are doing for a living and also be a smart hardworking person who enjoys what he does for a living.
 
+![me and my boys](../family.jpg)
+
 With a family to support I can’t afford to be unsalaried and certainly can't afford to get a degree.
 Information Technology changes so fast that there are more opportunities for a career-changer than traditional professions and employers are more open minded about who they hire.
 
