@@ -4,6 +4,7 @@ title:  "Week one review"
 date:   2015-09-21
 author: Peter Wilkins
 permalink: Week-one-review
+comments: true
 ---
 
 At the end of week one I feel elated at the amount and quality of information and tools we have learned.

@@ -4,6 +4,7 @@ title:  "Belbin 1.0 has lift off"
 date:   2015-09-25
 author: Peter Wilkins
 permalink: in-scrum-we-trust
+comments: true
 ---
 
 ## Oh where oh where has my $true_Love gone?

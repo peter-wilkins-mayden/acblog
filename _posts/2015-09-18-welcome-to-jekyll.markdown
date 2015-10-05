@@ -4,6 +4,7 @@ title:  "Why do I want to learn to develop software?"
 date:   2015-09-18
 author: Peter Wilkins
 permalink: Why-I-am-learning-to-develop-software
+comments: true
 ---
 
 I'm 38 years old, I have two boys and I need to change career. The prospect of doing what I was doing for another 30 years was making me depressed. I need a lot of mental simulation or I go nuts. I want to spend my time around smart hardworking people who enjoy what they are doing for a living and also be a smart hardworking person who enjoys what he does for a living.

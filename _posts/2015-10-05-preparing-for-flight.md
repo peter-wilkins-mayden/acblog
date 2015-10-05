@@ -4,6 +4,7 @@ title:  "Preparing for Flight"
 author: Peter Wilkins
 date:   2015-10-05
 permalink: preparing-for-flight
+comments: true
 ---
 
 

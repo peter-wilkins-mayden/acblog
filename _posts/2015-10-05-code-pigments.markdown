@@ -4,6 +4,7 @@ title:  "Highlight your code using Pigments in Jekyll"
 date:   2015-09-30
 author: Peter Wilkins
 permalink: highlight-code-with-pigments-jekyll
+comments: true
 ---
 
 ##How to use Pygments in jekyll.

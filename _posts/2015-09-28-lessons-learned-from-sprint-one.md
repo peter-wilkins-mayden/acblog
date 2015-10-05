@@ -4,6 +4,7 @@ title:  "Lessons learned from Sprint 1"
 date:   2015-09-28
 author: Peter Wilkins
 permalink: lessons-learned-from-sprint-one
+comments: true
 ---
 ###Scrambled data...
 When building the lookup tables I overcomplicated the process by changing the way the data was ordered while Luke simply copied the Belbin table into an array. I had to do a fair bit of mental arithmetic and made several errors in my handwritten work when building the test. Where possible the data structure should mirror the data.
@@ -31,7 +32,7 @@ Do:
 
 * Break up the code separate include files if the is a ggood reason such as keeping settings out of the code or to make the code more readable.
 
-* Put code that is used many times in a function [(just don't forget about scope!)](http://peter-wilkins-mayden.github.io/acblog/in-scrum-we-trust/). 
+* Put code that is used many times in a function [(just don't forget about scope!)](http://peter-wilkins-mayden.github.io/acblog/in-scrum-we-trust/).
 
 * If your stuck, explain your design or code to someone else.
 
