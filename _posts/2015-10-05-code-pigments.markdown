@@ -16,8 +16,7 @@ In the \_config.yml file in your jekyll site folder add the line `highlighter: p
 In your post:
 
 	{% raw %}
-	{% highlight php5 %}
-	<?php
+	{% highlight php5 startinline True %}
 	$result = add_up_scores($test_scores, $BELBIN_CODES);
 	{% endhighlight %}
 	{% endraw %}

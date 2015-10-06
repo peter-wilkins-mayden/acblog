@@ -11,7 +11,7 @@ comments: true
 
 To my amazement, we have built a functional web application after only 2 days. Following the Scrum principle of Minimum viable product, we have taken 'our' shortest route to a product we can show our client and get feedback on.
 
-![Our Belbin app's home page](http://peter-wilkins-mayden.github.io/acblog/belbinhome.png)
+![Our Belbin app's home page](../belbin.jpg)
 
 The challenge was to digitize the [Belbin Team Roles Test](http://belbin.com) that we all completed on paper during the interview process for the Academy. It's an interesting problem because the process of adding up the scores is quite convoluted - the answers have been randomly mixed in terms of the team roles to which they relate.
 
@@ -79,13 +79,13 @@ Here are the disappointing results:
 	ME should be 10. ME = 0
 	SP should be 2. SP = 0
 
-Why do all the scores = 0, whats going wrong? Answers on a postcard...
+Why do all the scores equal zero? whats going wrong? Answers on a postcard...
 
 
 
 
 
-It turned out he problem was scope. The scope of a variable is the areas of a program where the variable can be accessed. I had written the main logic of my solution in a function so it could be called whenever needed but in non object orientated PHP, functions can only see what you pass them in their brackets (unless you use global variables, which is bad pratice). I wasn't giving the function the lookup table arrays so it was giving me a blank result when I performed a lookup code.
+It turned out he problem was scope. The scope of a variable is the areas of a program where the variable can be accessed. I had written the main logic of my solution in a function so it could be called whenever needed but in PHP, functions can only see what you pass them in their brackets. I wasn't giving the function the lookup table arrays so it was giving me a blank result when I performed a lookup code.
 
 Calling the function, passing it the scores matrix and the Belbin roles matrix:
 {% highlight php5 %}
@@ -106,12 +106,12 @@ $result = add_up_scores($test_scores, $BELBIN_CODES);
 	SP should be 2. SP = 2
 
 
-A strongly typed language like Java would have spat it's dummy at this when trying to compile, but PHP was happy to let me hang by my own petard. An important lesson learned, one that will not be forgotten quickly. I learned an incredible amount in the two days, mostly about how much there is to learn and how much fun that is going to be.
+A strongly typed language like Java would have saved me from my own ignorance, but PHP was happy to let me hang by my own petard. An important lesson learned, one that will not be forgotten quickly. I learned an incredible amount in the two days, mostly about how much there is to learn and how much fun that is going to be.
 
 I really enjoyed this project, it was impossible not to work on it every spare hour I had and I am brimming with ideas for Belbin 3.0 (2.0 was already canned due to it being fundamentally flawed). However, I should keep in mind that it's not about what I want. I'll have to see what the clients (in this case Mayden) want and plan the next version, if there is one, around that feedback.
 
 Some of my ideas include
-* put all the instructions, questions and results are on separate <divs> in one PHP page so no database is required, save to file or email the results.
+* put all the instructions, questions and results in an accordian then post all the scores to results.php. No database is required, which is good because are freeMysql account was deleted. We can offer to email the results to the user.
 * write the whole thing in javascript so now there is no need for a server. Export the results as a pdf.
 Interesting thought experiments but PHP, Javascript, Mysql and CSS have enabled us to produce something pretty good, very quickly.
 
