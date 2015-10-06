@@ -26,6 +26,6 @@ shows some php code with colors:
 $result = add_up_scores($test_scores, $BELBIN_CODES);
 {% endhighlight %}
 
-[more information on the various arguments for the different languages is  here](http://pygments.org/docs/lexers/#lexers-for-various-text-formats)
+More information on the various arguments for different syntaxes can be found  [here](http://pygments.org/docs/lexers/#lexers-for-various-text-formats).
 
 If you check out my [previous post about Belbin 1.0](http://peter-wilkins-mayden.github.io/acblog/in-scrum-we-trust) you will now find only one image. The code snippets are now in \<code> tags and you can now cut and paste this code which you couldn't do when it was an image. Search engines will also read the code so hopefully more people will find my posts and find them useful.
