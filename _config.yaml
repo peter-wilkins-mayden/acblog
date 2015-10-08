@@ -13,6 +13,4 @@ highlighter: pygments
 paginate: 10
 # email: peter.wilkins@mayden.co.uk
 github_username: peter-wilkins-mayden
-sass:
-  style: compressed
 twitter_username:  peterwilkins801
