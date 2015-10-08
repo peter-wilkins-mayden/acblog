@@ -1,0 +1,61 @@
+
+.logo {
+overflow: auto;
+    position: relative;
+    height: 200;
+    width: 200;
+    left: 90px;
+    top: 40px;
+}
+.logoa {
+	line-height: normal;
+    font-size: 250px;
+    color: white;
+    font-family: Arial;
+    font-weight: 900;
+    position: absolute;
+    left: 13px;
+    top: -43px;
+}
+.green {
+    height: 200px;
+    width: 100px;
+    background-color: #72b96e;
+    position: absolute;
+    left: 0px;
+}
+.blue {
+    height: 200px;
+    width: 100px;
+    background-color: #488fc9;
+    position: absolute;
+    left: 100px;
+    top: 0px;
+}
+.navy {
+    height: 50px;
+    width: 120px;
+    background-color: #2c3761;
+    position: absolute;
+    left: 40px;
+    top: 145px;
+}
+.orange {
+    height: 90px;
+    width: 60px;
+    background-color: #e77625;
+    position: absolute;
+    left: 75px;
+    top: 50px;
+}
+.port {
+    height: 300px;
+    width: 300px;
+    border-width: 60px;
+    border-color: white;
+    border-radius: 50%;
+    border-style: solid;
+    position: absolute;
+    left: -50px;
+    top: -52px;
+}

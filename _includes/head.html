@@ -10,7 +10,8 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   <link href='https://fonts.googleapis.com/css?family=Cabin|Source+Code+Pro' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="/css/styles.css">
+
+  <link rel="stylesheet" href="site.css">
 
   {% if page.custom_js %}
   {% for js_file in page.custom_js %}
@@ -20,7 +21,7 @@
 
  {% if page.custom_css %}
   {% for stylesheet in page.custom_css %}
-  <link rel="stylesheet" href="/css/{{ stylesheet }}.css" media="screen" type="text/css">
+  <link rel="stylesheet" href="/acblog/css/{{ stylesheet }}.css" media="screen" type="text/css">
   {% endfor %}
 {% endif %}
 

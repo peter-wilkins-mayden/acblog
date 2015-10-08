@@ -6,3 +6,9 @@
 br {
 	border: 1px solid black;
 }
+.background {
+position: fixed;
+z-index: -1;
+width: 120%;
+top: -50px;
+}

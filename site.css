@@ -1,0 +1,12 @@
+
+/* Add your includes. */
+
+
+/* Include your usual CSS here. */
+.background {
+position: fixed;
+z-index: -1;
+width: 100%;
+top: -70px;
+left: 100px;
+}
