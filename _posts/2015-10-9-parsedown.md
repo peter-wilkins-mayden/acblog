@@ -7,7 +7,7 @@ permalink: parsedown-md-to-html
 comments: true
 ---
 
-Pasredown is a PHP module that parses markdown and returns it converted to html.
+Parsedown is a PHP module that parses markdown and returns it converted to html.
 
 To use it in your php file include the Parsedown.php file [available on github](https://github.com/erusev/parsedown).
 
