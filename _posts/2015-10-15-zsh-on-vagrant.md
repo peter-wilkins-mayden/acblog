@@ -16,3 +16,4 @@ get oh-my-zsh `sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/maste
 turn it on `chsh -s /bin/zsh` password is `vagrant`
 
 [More info and configuration options here](https://github.com/robbyrussell/oh-my-zsh)
+🍨🍧🎷🏇🏼⛳️⛳️🏆⚽️⚽️🚆🚅🚋👙💣💣💊💊💊👔
